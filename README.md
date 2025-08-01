@@ -16,7 +16,7 @@ It runs in a loop until the user chooses to exit.
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/simple-calculator.git
+git clone https://github.com/Chandu-561/BroskiesHub-Intership/blob/main/Simple_Calculator.py/simple-calculator.git
 cd simple-calculator
 ```
 
